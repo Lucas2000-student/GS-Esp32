@@ -18,8 +18,6 @@ Sistema de monitoramento ambiental corporativo utilizando **ESP32** para coletar
 
 Sistema IoT desenvolvido para monitorar condições ambientais em ambientes corporativos, proporcionando dados importantes para análise de bem-estar e produtividade.
 
-<img src="./images/circuito.png" alt="Circuito" width="700"/>
-
 ---
 
 ## 🛠️ Componentes Utilizados
